@@ -16,7 +16,8 @@ The purpose of the experiment is, firstly, to study the prism and the grating us
 If you would like to see the details of the research, please check [here]().
 
 ## Microwave
-In
+In this experiment, our aim is to study microwaves, which are electromagnetic waves with a wavelength of approximately 2.85 cm, thus located in a frequency region different from that of the visible spectrum. The study will be conducted through various experiments aimed at identifying the patterns that describe these waves and measuring characteristic quantities such as wavelength.
+Too see the full project, please check [here]().
 
 
 >[!NOTE]
